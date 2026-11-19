@@ -3,9 +3,10 @@
 ProP Relay runs on the Mac with ProPresenter. It receives drawings from the ProP Control app on an
 iPad or iPhone and sends them out as an NDI source you can layer over your slides.
 
-## Download
+## [Download ProP Relay 1.0 (38)](https://github.com/8bradymack/ProPRelay/releases/latest/download/ProPRelay.zip)
 
-Get the latest **ProP Relay** zip from [Releases](https://github.com/8bradymack/ProPRelay/releases/latest).
+For macOS 14 or later. What changed in each version: [Releases](https://github.com/8bradymack/ProPRelay/releases).
+Earlier versions are in [Older Versions](Older%20Versions).
 
 ## Install
 
@@ -15,7 +16,7 @@ Get the latest **ProP Relay** zip from [Releases](https://github.com/8bradymack/
    ProPRelay. Confirm with your Mac password. You only do this once.
 4. When asked, allow **Local Network** access so devices can find the Mac.
 
-ProP Relay lives in the menu bar and opens by itself at login. Set its name and password in
+ProP Relay lives in the menu bar. Set its name and password, and whether it opens at login, in
 **Settings**.
 
 ## Updates
