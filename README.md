@@ -3,7 +3,7 @@
 ProP Relay runs on the Mac with ProPresenter. It receives drawings from the ProP Control app on an
 iPad or iPhone and sends them out as an NDI source you can layer over your slides.
 
-## [Download ProP Relay 1.0 (39)](https://github.com/8bradymack/ProPRelay/releases/latest/download/ProPRelay.zip)
+## [Download ProP Relay 1.0 (40)](https://github.com/8bradymack/ProPRelay/releases/latest/download/ProPRelay.zip)
 
 For macOS 14 or later. What changed in each version: [Releases](https://github.com/8bradymack/ProPRelay/releases).
 Earlier versions are in [Older Versions](Older%20Versions).
